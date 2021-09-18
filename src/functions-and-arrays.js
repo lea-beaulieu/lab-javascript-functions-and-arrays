@@ -1,4 +1,5 @@
 // Iteration #1: Find the maximum
+// essai
 function maxOfTwoNumbers(num1, num2) {
   return Math.max(num1, num2)
 }
